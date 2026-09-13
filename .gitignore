@@ -1,4 +1,5 @@
 __pycache__/
-
+build/
+tapo.egg-info/
 .token.json
 .devices.json
