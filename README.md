@@ -9,7 +9,6 @@ Python library to interract with TP-Link TAPO devices (KASA and KLAP protocols).
 Use TP-Link Discovery protocol to find and register a device.
 
 ```
-pip install pywifi
 python3 client.py --username <EMAIL> --password <PASSWORD> --configure --wireless-ssid <SSID> --wireless-password <PASSWORD> [--wireless-key-type wpa2_psk]
 ```
 
